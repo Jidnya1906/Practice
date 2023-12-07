@@ -1,4 +1,4 @@
-# Practice
+# Syllabuse
 Devops
 Unit 1
            Overview of Agile Software Development and Linux Environment

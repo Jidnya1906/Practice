@@ -15,3 +15,13 @@ Unit 1
 2.Components of Linux Operating System
 3.Linux distributions
 4.importance of Linux in DevOps.
+
+###
+           Overview of Cloud Computing platforms and DevOps Eco System
+           
+Introduction to Cloud Computing at a Glance, The Vision of Cloud Computing, Defining a Cloud, A
+Closer Look, Cloud Computing Reference Model, Computing Platforms and Technologies, Amazon
+Web Services (AWS), Google AppEngine, Microsoft Azure, Hadoop, Force.com and Salesforce.com,
+Manjrasoft Aneka. What is DevOps? Understanding the Business Need for DevOps. Seeing how
+DevOps works, History of DevOps. DevOps Culture and Practices: Implementing CI/CD and continuous
+deployment, Understanding IaC practices an overview.
